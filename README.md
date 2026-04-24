@@ -27,10 +27,10 @@ You have the right to access, update, or delete your personal information within
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ### 6. Contact Us
-If you have any questions about this Privacy Policy, please contact us at 90uxy4@gmail.com.
+If you have any questions about this Privacy Policy, please contact us at macrovatracker@gmail.com.
 
 ### 7. Data Deletion
 If you would like to request the deletion of your Macrova account and all associated data, you can do so through the following methods:
 
 1. **In-App:** Navigate to Settings > Account > Delete Account to permanently delete your data and account directly within the application.
-2. **Via Email:** If you are unable to access the app, please send an email to **90uxy4@gmail.com** with the subject line "Account Deletion Request." Please include the email address associated with your Macrova account in the body of the email. We will process your request and confirm the deletion within [e.g., 7 business days].
+2. **Via Email:** If you are unable to access the app, please send an email to **macrovatracker@gmail.com** with the subject line "Account Deletion Request." Please include the email address associated with your Macrova account in the body of the email. We will process your request and confirm the deletion within [e.g., 7 business days].
